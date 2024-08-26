@@ -1,0 +1,42 @@
+{
+   "firstName":"Veronika",
+   "lastName":"Alexeyeva",
+   "birthday":"19.02.1982",
+   "about":[
+      "organizovanost",
+      "umenie rabotat s dokumentami"
+   ],
+   "specializations":"Economist",
+   "education":[
+      {
+         "college":"Minski college predprinimatelstva",
+         "graduationDate":"2000",
+         "qualification":"Economist"
+      },
+      {
+         "university":"Belarus State Economic University",
+         "graduationDate":"2005",
+         "qualification":"Economist"
+      }
+   ],
+   "workExperience":[
+      "MTBank",
+      "Tehnobank"
+   ],
+   "skills":[
+      "Windows",
+      "HTML",
+      "SQL",
+      "JSON",
+      "Git"
+   ],
+   "tools":[
+      "TestLink",
+      "Mantis",
+      "Postman",
+      "Sourcetree"
+   ],
+   "certifications":"Certificate BELHARD",
+   "additionalEducation":"Testing entry level",
+   "languages":"English A1"
+}
