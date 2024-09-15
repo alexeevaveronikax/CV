@@ -9,12 +9,14 @@
    "specializations":"Economist",
    "education":[
       {
-         "college":"Minski college predprinimatelstva",
+         "type":"college"
+		 "name":"Minski college predprinimatelstva",
          "graduationDate":"2000",
          "qualification":"Economist"
       },
       {
-         "university":"Belarus State Economic University",
+         "type":"university"
+		 "name":"Belarus State Economic University",
          "graduationDate":"2005",
          "qualification":"Economist"
       }
